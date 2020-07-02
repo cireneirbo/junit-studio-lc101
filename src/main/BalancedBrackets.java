@@ -15,7 +15,7 @@ public class BalancedBrackets {
      * These strings have balanced brackets:
      *  "[LaunchCode]", "Launch[Code]", "[]LaunchCode", "", "[]"
      *
-     * While these do not:
+     * While these do not: 
      *   "[LaunchCode", "Launch]Code[", "[", "]["
      *
      * @param str - to be validated
